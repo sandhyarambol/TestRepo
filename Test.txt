@@ -1,6 +1,3 @@
 Hi this is Sandhya
 This is my first push
-
-
-test
-test
+edited second pull
